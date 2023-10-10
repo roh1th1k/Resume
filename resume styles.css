@@ -31,6 +31,8 @@ h1 {
 .education, .experience, .skills {
     background-color: #fff;
     margin: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -60,4 +62,10 @@ footer {
     padding: 10px;
     background-color: #007BFF;
     color: #fff;
+}
+
+.docs {
+    margin-left: 420px;
+    margin-right: 420px;
+    align-self:center;
 }
